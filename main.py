@@ -1,1 +1,1 @@
-print('jfjhjhg')
+print('g')
